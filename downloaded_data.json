@@ -1,0 +1,9 @@
+{
+    "iv": "MzJieXRlc0Zha2VJVg==",
+    "cipher": "RmFrZUNpcGhlclZhbHVlRm9yVGVzdA==",
+    "session_key": "U2Vzc2lvbktleUZvclRlc3RUZXN0QmFzZTY0",
+    "hash": "f3c99f9efake12345abc",
+    "sig": "ZmFrZVNpZ25hdHVyZQ==",
+    "filename": "client.py"
+  }
+  
